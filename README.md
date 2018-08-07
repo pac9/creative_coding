@@ -1,5 +1,5 @@
 # creative_coding
-using java in processing development environment as part of final project as educational establishment Codeclan and formed 
+Using java in processing development environment as part of final project as educational establishment Codeclan and formed 
 part of a presentation made to the class on 26th July 2018.
 
 The sketches are setup to run in the Processing development environment with the code written in Java, 
