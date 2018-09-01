@@ -12,7 +12,7 @@ All sketches have been setup to run at full screen therefore to get out of the s
 size at which the sketches run in the setup by removing fullscreen and putting in size(width, height) where
 width and height are figures determined by you.
 
-On a few of pdes as I've making a lot of comments, I have shown both the code both with comments and without. 
+On a few of pdes, where I've made a lot of comments I have shown both the code both with comments and without. 
 
 For the shapes.pde, I showed more examples that that uploaded here such as spirals and moving bubbles. These were based 
 on sketches which were provided on a futurelearn course(www.futurelearn.com) in relation to creative coding 
